@@ -17,4 +17,9 @@ These files are divided into modules, and built with [FreeCAD](http://www.freeca
 ![](https://github.com/yorikvanhavre/opensourceecology-greenhouse/blob/master/Modules/01%20-%20Roof%20panel/screenshot.jpg)
 
 * Module 02: Wall panel
+
+![](https://github.com/yorikvanhavre/opensourceecology-greenhouse/blob/master/Modules/02%20-%20Wall%20panel/screenshot.jpg)
+
 * Module 03: Triangle panel
+
+![](https://github.com/yorikvanhavre/opensourceecology-greenhouse/blob/master/Modules/03%20-%20Triangle%20panel/screenshot.jpg)
