@@ -8,7 +8,12 @@ These files are divided into modules, and built with [FreeCAD](http://www.freeca
 ## General
 
 * Base section
+
+![](https://github.com/yorikvanhavre/opensourceecology-greenhouse/blob/master/General/screenshot-section.jpg)
+
 * Assembly (not parametric)
+
+![](https://github.com/yorikvanhavre/opensourceecology-greenhouse/blob/master/General/screenshot-assembly.jpg)
 
 ## Modules
 
