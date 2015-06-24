@@ -8,8 +8,10 @@ These files are divided into modules, and built with [FreeCAD](http://www.freeca
 ## General
 
 * Base section
+* Assembly (not parametric)
 
 ## Modules
 
 * Module 01: Roof panel
 * Module 02: Wall panel
+* Module 03: Triangle panel
