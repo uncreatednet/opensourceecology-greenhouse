@@ -13,5 +13,8 @@ These files are divided into modules, and built with [FreeCAD](http://www.freeca
 ## Modules
 
 * Module 01: Roof panel
+
+![](https://github.com/yorikvanhavre/opensourceecology-greenhouse/blob/master/Modules/01%20-%20Roof%20panel/screenshot.jpg)
+
 * Module 02: Wall panel
 * Module 03: Triangle panel
